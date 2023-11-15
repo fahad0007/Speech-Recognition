@@ -31,7 +31,7 @@ const App = () => {
       <div className="container">
         <h2>Speach To Text Converter</h2>
         {/* <br /> */}
-        <p>A React Hook that converts speach from the microphone to text and makes it available to your Components</p>
+        <p>"Revolutionize Communication With Our Speech-To-Text Converter React App, Seamlessly Transforming Spoken Words Into Written Text For Efficiency And Accessibility."</p>
 
         <div className="main-content">
 { transcript }
