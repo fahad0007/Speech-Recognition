@@ -142,7 +142,7 @@ button:hover {
   }
 }
 
-@media screen and (max-width: 385px) {
+@media screen and (max-width: 395px) {
   .container{
     padding: 30px 15px;
     display: flex;
