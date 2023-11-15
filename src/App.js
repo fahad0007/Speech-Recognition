@@ -31,7 +31,8 @@ const App = () => {
       <div className="container">
         <h2>Speach To Text Converter</h2>
         {/* <br /> */}
-        <p>"Revolutionize Communication With Our Speech-To-Text Converter React App, Seamlessly Transforming Spoken Words Into Written Text For Efficiency And Accessibility."</p>
+        // <p>"Revolutionize Communication With Our Speech-To-Text Converter React App, Seamlessly Transforming Spoken Words Into Written Text For Efficiency And Accessibility."</p>
+        <p>"Revolutionize communication with our Speech-to-Text react app—effortless conversion, enhanced accessibility, seamless transcription, and unparalleled accuracy."</p>
 
         <div className="main-content">
 { transcript }
